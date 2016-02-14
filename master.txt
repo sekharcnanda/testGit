@@ -1,1 +1,4 @@
 Master file content
+From new branch added content
+Please merge 
+THis is correct code.
